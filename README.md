@@ -4,6 +4,6 @@
 
 Building of the classic game snake inside google chrome browser using JavaScript and HTML5 
 
-
+![alt text](https://raw.githubusercontent.com/amir111/javascript_snakeGame/img/mySnakeGame.png)
 
 
