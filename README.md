@@ -1,4 +1,4 @@
-# Classic Game of Snake with JavaScript and HTML5 in Google Chrome Browser
+# Classic Game of Snake using JavaScript+HTML5 on Google Chrome Browser
 **Amir Sadiev**
 **Oct 2018**
 
